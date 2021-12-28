@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! I'm Efra 👋
 
-<!--
-**efraa/efraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack engineer passionate about software development and a software architecture enthusiast. I enjoy working with Docker, Bash scripting, Node, React, and any tools of the JavaScript ecosystem, but this hasn't limited me to using other great tools.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🔭 I’m currently building some tech stuff at __[@fonoster](https://fonoster.com) Previously [@soluciones-gbh](https://gbh.com.do)__
+- 🌱 I’m currently learning about __kubernetes, terraform, docker__ and __devOps__ stuff
+- 👯 I’m looking to collaborate on any __idea__ that sounds cool
+- 💬 Ask me about __Software Architecture__, Ideas, Coffee and __Software Development__ in general
+- 📫 How to reach me: efra23peralta@gmail.com
+- ⚡ Fun fact:
+  - Former art painter
+  - I've never been a games fan
+  - A dark knight 🌚 🦇 (Productive at night)
+  - Loves to create things and fast learner
