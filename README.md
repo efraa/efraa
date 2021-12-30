@@ -1,6 +1,6 @@
 ### Hi there! I'm Efra 👋
 
-I'm a engineer passionate about software development and a software architecture enthusiast. I enjoy working with Docker, Bash scripting, Node, React, and any tools of the JavaScript ecosystem, but this hasn't limited me to using other great tools.
+I'm an engineer passionate about software development and a software architecture enthusiast. I enjoy working with Docker, Bash scripting, Node, React, and any tools of the JavaScript ecosystem, but this hasn't limited me to using other great tools.
 
 
 ---
