@@ -10,7 +10,7 @@ I'm an engineer passionate about software development. I enjoy working with:
 
 ---
 
-- 🔭 I’m currently building some tech stuff at __[@fonoster](https://fonoster.com) Previously [@soluciones-gbh](https://gbh.com.do)__
+- 🔭 I’m currently building some tech stuff at __[@fonoster](https://fonoster.com)
 - 👯 I’m looking to collaborate on any __idea__ that sounds cool.
 - 💬 Ask me about __software architecture/development__, Coffee, and whatever you're building.
 - 📫 How to reach me: efra23peralta@gmail.com
