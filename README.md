@@ -1,3 +1,11 @@
+<div align="center">
+  <p align="center">
+      <a href="https://github.com/turnly" target="_blank" rel="noopener">
+          <img src="https://user-images.githubusercontent.com/40646537/179213717-82130281-cfb2-4126-951b-abc849687113.png" />
+      </a>
+  </p>
+</div>
+
 ### Hey, I'm Efra 👋
 
 I'm an engineer passionate about software development. I enjoy working with:
@@ -10,7 +18,7 @@ I'm an engineer passionate about software development. I enjoy working with:
 
 ---
 
-- 🔭 I’m currently building some tech stuff at __[@fonoster](https://fonoster.com)__
+- 🔭 I’m currently building some tech stuff at __[@fonoster](https://fonoster.com)__ and __[@turnly](https://turnly.app)__
 - 👯 I’m looking to collaborate on any __idea__ that sounds cool.
 - 💬 Ask me about __software architecture/development__, Coffee, and whatever you're building.
 - 📫 How to reach me: efra23peralta@gmail.com
