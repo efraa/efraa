@@ -1,29 +1,35 @@
 <div align="center">
   <p align="center">
       <a href="https://github.com/turnly" target="_blank" rel="noopener">
-          <img src="https://user-images.githubusercontent.com/40646537/179213717-82130281-cfb2-4126-951b-abc849687113.png" />
+          <img src="https://user-images.githubusercontent.com/40646537/182424495-b09d7186-2ca7-4b48-a6f6-d84d03939cdc.png" />
       </a>
   </p>
 </div>
 
-### Hey, I'm Efra 👋
+### Hi, I'm Efra 👋
 
-I'm an engineer passionate about software development. I enjoy working with:
+I'm a software development enthusiast who loves technology built to improve and simplify the user experience.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/docker/docker.png"></code>
+I enjoy collaborating on developing systems from scratch using all possible shoes.
+Most of the time I belong to the front-end engineering team but I have to admit that I lean towards back-end engineering.
+
+I enjoy working on complex architecture systems with technologies like Docker, NodeJS, GraphQL, AWS, gRPC, RN, and NextJS.
 
 ---
 
-- 🔭 I’m currently building some tech stuff at __[@fonoster](https://fonoster.com)__ and __[@turnly](https://turnly.app)__
-- 👯 I’m looking to collaborate on any __idea__ that sounds cool.
-- 💬 Ask me about __software architecture/development__, Coffee, and whatever you're building.
-- 📫 How to reach me: efra23peralta@gmail.com
-- ⚡ Fun fact:
-  - Former art painter
+- 🔭 I’m currently working on __[@fonoster](https://github.com/fonoster)__ and __[@turnly](https://github.com/turnly)__
+- 💬 Ask me about: Software Architecture, Art, Coffee, and whatever you're building.
+- ⚡ Fun facts:
   - I've never been a games fan
   - A dark knight 🌚 🦇 (Productive at night)
-  - Loves to create things and __fast learner__
+  - Former art painter
+
+<br />
+<br />
+
+<p align="center">
+  <a href="https://twitter.com/e_fraa">Twitter</a> •
+  <a href="https://www.linkedin.com/in/efraa">LinkedIn</a> •
+  <a href="mailto:efra23peralta@gmail.com">Mail</a> •
+  <a href="https://turnly.app">Get Turnly</a>
+</p>
