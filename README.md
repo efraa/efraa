@@ -1,7 +1,7 @@
 <div align="center">
   <p align="center">
       <a href="https://github.com/turnly" target="_blank" rel="noopener">
-          <img src="https://user-images.githubusercontent.com/40646537/182424495-b09d7186-2ca7-4b48-a6f6-d84d03939cdc.png" />
+          <img src="https://user-images.githubusercontent.com/40646537/182729256-8f567cda-9908-4de8-8adf-1955afe546fb.png" />
       </a>
   </p>
 </div>
