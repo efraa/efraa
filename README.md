@@ -17,7 +17,7 @@ I enjoy working on complex architecture systems with technologies like Docker, N
 
 ---
 
-- 🔭 I’m currently working on __[@fonoster](https://github.com/fonoster)__ and __[@turnly](https://github.com/turnly)__
+- 🔭 I’m currently working on __[@turnly](https://github.com/turnly)__
 - 💬 Ask me about: Software Architecture, Art, Coffee, and whatever you're building.
 - ⚡ Fun facts:
   - I've never been a games fan
