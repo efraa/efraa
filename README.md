@@ -1,11 +1,3 @@
-<div align="center">
-  <p align="center">
-      <a href="https://github.com/turnly" target="_blank" rel="noopener">
-          <img src="https://raw.githubusercontent.com/turnly/turnly/develop/docs/assets/twitter-banner.png" />
-      </a>
-  </p>
-</div>
-
 ### Hi, I'm Efra 👋
 
 I'm a software development enthusiast who loves technology built to improve and simplify the user experience.
