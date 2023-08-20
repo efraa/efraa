@@ -1,27 +1,15 @@
 ### Hi, I'm Efra 👋
 
-I'm a software development enthusiast who loves technology built to improve and simplify the user experience.
+I am Efra, a passionate software engineer with 6+ years of experience who loves technology created to enhance and simplify people's daily lives. As an engineer, I have been able to acquire knowledge in many areas related to software development, such as requirement specification, design, architecture, coding, and implementation. I have a proven history with a wide range of delivered and in-production products.
 
-I enjoy collaborating on developing systems from scratch using all possible shoes. <br />
-Most of the time I belong to the front-end engineering team but I have to admit that I lean towards back-end engineering.
-
-I enjoy working on complex architecture systems with technologies like Docker, NodeJS, GraphQL, AWS, gRPC, RN, and NextJS.
+I derive immense satisfaction from spearheading the creation and advancement of systems, leveraging a toolkit comprising TypeScript, Docker, Node, React, React Native, gRPC, and GraphQL. A staunch proponent of open-source ideals, I am committed to advocating for collaborative and accessible software solutions.
 
 ---
 
-- 🔭 I’m currently working on __[@turnly](https://github.com/turnly)__
-- 💬 Ask me about: Software Architecture, Art, Coffee, and whatever you're building.
+- 🔭 I’m currently working on: [Turnly](https://turnly.app)
+- 💬 Ask me about: Software development or whatever you're building.
+- 📫 How to reach me: [Twitter](https://twitter.com/e_fraa), [LinkedIn](https://www.linkedin.com/in/efraa).
 - ⚡ Fun facts:
   - I've never been a games fan
   - A dark knight 🌚 🦇 (Productive at night)
   - Former art painter
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://twitter.com/e_fraa">Twitter</a> •
-  <a href="https://www.linkedin.com/in/efraa">LinkedIn</a> •
-  <a href="mailto:efra23peralta@gmail.com">Mail</a> •
-  <a href="https://turnly.app">Get Turnly</a>
-</p>
